@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\Desktop\\Rafael Carvalho - Projetos\\Rafael Cursos\\Projetos UDEMY C# 2019\\TesteGit\\TesteGit.csproj": {}
+    "C:\\Users\\rafae\\Desktop\\Rafael Carvalho - Projetos\\Rafael Cursos\\Projetos UDEMY C# 2019\\ProjetoNovo\\TesteGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\Desktop\\Rafael Carvalho - Projetos\\Rafael Cursos\\Projetos UDEMY C# 2019\\TesteGit\\TesteGit.csproj": {
+    "C:\\Users\\rafae\\Desktop\\Rafael Carvalho - Projetos\\Rafael Cursos\\Projetos UDEMY C# 2019\\ProjetoNovo\\TesteGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\Desktop\\Rafael Carvalho - Projetos\\Rafael Cursos\\Projetos UDEMY C# 2019\\TesteGit\\TesteGit.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\Desktop\\Rafael Carvalho - Projetos\\Rafael Cursos\\Projetos UDEMY C# 2019\\ProjetoNovo\\TesteGit.csproj",
         "projectName": "TesteGit",
-        "projectPath": "C:\\Users\\rafae\\Desktop\\Rafael Carvalho - Projetos\\Rafael Cursos\\Projetos UDEMY C# 2019\\TesteGit\\TesteGit.csproj",
+        "projectPath": "C:\\Users\\rafae\\Desktop\\Rafael Carvalho - Projetos\\Rafael Cursos\\Projetos UDEMY C# 2019\\ProjetoNovo\\TesteGit.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\Desktop\\Rafael Carvalho - Projetos\\Rafael Cursos\\Projetos UDEMY C# 2019\\TesteGit\\obj\\",
+        "outputPath": "C:\\Users\\rafae\\Desktop\\Rafael Carvalho - Projetos\\Rafael Cursos\\Projetos UDEMY C# 2019\\ProjetoNovo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
